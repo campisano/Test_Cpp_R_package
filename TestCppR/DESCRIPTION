@@ -1,0 +1,11 @@
+Package: TestCppR
+Version: 0.1
+Date: 2017-08-27
+Title: Sample R package testing the R / Cpp Language interface
+Author: Riccardo Campisano <riccardo.campisano@gmail.com>
+Maintainer: Riccardo Campisano <riccardo.campisano@gmail.com>
+Depends: R (>= 2.0.1)
+Description: TestCppR passes a two-dimensional matrix
+  into a C++ function via the .C() interface function, where
+  the transpose of the matrix is calculated.
+License: GPL (>= 2)

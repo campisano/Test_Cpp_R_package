@@ -1,0 +1,4 @@
+useDynLib(TestCppR)
+
+export(testWrapper)
+export(transposeR)
